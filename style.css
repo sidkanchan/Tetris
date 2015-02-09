@@ -1,0 +1,16 @@
+#title {
+	font: bold 18px sans-serif;
+	text-align: center;
+}
+
+#playfield {
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+td {
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+}
